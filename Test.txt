@@ -1,0 +1,2 @@
+maria;araraquara;190;contato;
+fabio;araraquara;911;recado;
